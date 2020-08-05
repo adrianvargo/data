@@ -6,13 +6,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHIRT_SS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -21,13 +21,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHIRT_LS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -36,13 +36,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHIRT_TNK",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -51,13 +51,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_WNTR_JKT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -66,13 +66,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_LGHT_JKT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -81,13 +81,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHORT_5IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -96,13 +96,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHORT_7IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -111,13 +111,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SHORT_9IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -126,13 +126,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_PANT_COMPRESSION",
     "DSG_Tier 1": "DSG_ECOMM / -",
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -141,13 +141,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SWEATPANT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -156,13 +156,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_SS_WMNS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -171,13 +171,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_LS_WMNS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -186,13 +186,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_SS_MENS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -201,13 +201,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_LS_MENS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -216,13 +216,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_SS_YTH",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -231,13 +231,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JERSEY_LS_YTH",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -246,13 +246,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SCARF",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false
+    "GG_ECOMM": false,
+    "NOTES": ""
   },
   {
     "DEPT_ID": 500,
@@ -261,13 +261,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_HAT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false
+    "GG_ECOMM": false,
+    "NOTES": ""
   },
   {
     "DEPT_ID": 500,
@@ -276,13 +276,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SOCKS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -291,13 +291,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SUNGLASSES",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -306,13 +306,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SCARF",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -321,13 +321,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_BEANIE",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -336,13 +336,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SWEATBAND",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -351,13 +351,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_SCARF",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -366,13 +366,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_JEANS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -381,13 +381,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "BQ3204001-NZ_RGBY_PONCHO",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -396,13 +396,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_PONCHO",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -411,13 +411,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_JERSEY",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -426,13 +426,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SHIRT_SS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -441,13 +441,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SHIRT_LS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -456,13 +456,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_HAT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -471,13 +471,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SHORTS_5IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -486,13 +486,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SHORTS_7IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -501,13 +501,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SHORTS_9IN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -516,13 +516,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SWEATPANTS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -531,13 +531,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SCARF",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -546,13 +546,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_BEANIE",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -561,13 +561,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_WINTER_JACKET",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -576,13 +576,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_BUCKET_HAT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -591,13 +591,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_HELMET",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -606,13 +606,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_GLOVES",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -621,13 +621,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SOCKS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -636,13 +636,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_FACE_PAINT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -651,13 +651,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_FOAM_FINGER",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -666,13 +666,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_GOLF_BALL",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -681,13 +681,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_FOOTBALL",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -696,13 +696,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_BASKETBALL",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -711,13 +711,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_PING_PONG_SET",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -726,13 +726,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_SOCKS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -741,13 +741,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_CORNHOLE",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -756,13 +756,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_BASKETBALL_HOOP",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -771,13 +771,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ3204005",
     "COLOR_DESC": "GREY/WHITE",
-    "PRODUCT": "BQ3204005-LV_RAIDERS_KOOZIE",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -786,13 +786,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SOCKS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -801,13 +801,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_HAT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -816,13 +816,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SS_SHIRT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -831,13 +831,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_LS_SHIRT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -846,13 +846,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_JERSEY",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -861,13 +861,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_WINTER_JACKET",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -876,13 +876,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_LIGHTWEIGHT_JACKET",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -891,13 +891,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_HOODIE",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -906,13 +906,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_KOOZIE",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -921,13 +921,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_BASKETBALL",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -936,13 +936,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_BEANIE",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -951,13 +951,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SHORTS_5IN",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -966,13 +966,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SHORTS_7IN",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -981,13 +981,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SHORTS_9IN",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -996,13 +996,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_KEYCHAIN",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -1011,13 +1011,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_BASKETBALL_HOOP",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 500,
@@ -1026,13 +1026,13 @@
     "SUBCLASS_ID": "500_001_001_001",
     "STYLE_NUM": "BQ9646005",
     "COLOR_DESC": "Black/Grey",
-    "PRODUCT": "BQ9646005-PROVIDENCE_FRIARS_SANDALS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1041,13 +1041,13 @@
     "SUBCLASS_ID": "400_001_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_CITY_EDITION_JERSEY",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1056,13 +1056,13 @@
     "SUBCLASS_ID": "400_001_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_HOME_JERSEY",
     "DSG_Tier 1": true,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1071,13 +1071,13 @@
     "SUBCLASS_ID": "400_001_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_AWAY_JERSEY",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1086,13 +1086,13 @@
     "SUBCLASS_ID": "400_001_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_SS_SHIRT",
     "DSG_Tier 1": true,
     "DSG_Tier 2": true,
     "DSG_Tier 3": true,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1101,13 +1101,13 @@
     "SUBCLASS_ID": "400_001_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_LS_SHIRT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1116,13 +1116,13 @@
     "SUBCLASS_ID": "400_002_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_ON_COURT_SHORTS_HOME",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1131,13 +1131,13 @@
     "SUBCLASS_ID": "400_002_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_ON_COURT_SHORTS_AWAY",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1146,13 +1146,13 @@
     "SUBCLASS_ID": "400_002_001_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_ON_COURT_WARMUP_SHIRT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": true,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1161,13 +1161,13 @@
     "SUBCLASS_ID": "400_002_002_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_ON_COURT_WARMUP_PANTS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1176,13 +1176,13 @@
     "SUBCLASS_ID": "400_002_002_001",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_HAT",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 400,
@@ -1191,13 +1191,13 @@
     "SUBCLASS_ID": "400_002_002_002",
     "STYLE_NUM": "MD3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "MD3204001-BROOKLYN_NETS_SOCKS",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
@@ -1206,13 +1206,13 @@
     "SUBCLASS_ID": "300_001_001_001",
     "STYLE_NUM": "DQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "DQ3204001-CHICAGO_WHITE_SOX_SOCKS",
     "DSG_Tier 1": true,
     "DSG_Tier 2": true,
     "DSG_Tier 3": true,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
@@ -1221,13 +1221,13 @@
     "SUBCLASS_ID": "300_001_001_001",
     "STYLE_NUM": "DQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "DQ3204001-CHICAGO_WHITE_SOX_HOME_JERSEY",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": false,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
@@ -1236,13 +1236,13 @@
     "SUBCLASS_ID": "300_001_001_001",
     "STYLE_NUM": "DQ3204001",
     "COLOR_DESC": "Black/White",
-    "PRODUCT": "DQ3204001-CHICAGO_WHITE_SOX_AWAY_JERSEY",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
@@ -1250,29 +1250,29 @@
     "CLASS_ID": "300_002_002",
     "SUBCLASS_ID": "300_002_002_001",
     "STYLE_NUM": "DQ3204991",
-    "COLOR_DESC": "Blue/Yellow",
-    "PRODUCT": "DQ3204991-PITT_PANTHERS_FOOTBALL_AWAY_JERSEY",
+    "COLOR_DESC": "Black/White",
     "DSG_Tier 1": false,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
     "SUBDEPT_ID": "300_002",
     "CLASS_ID": "300_002_002",
     "SUBCLASS_ID": "300_002_002_002",
-    "STYLE_NUM": "DQ3204991",
-    "COLOR_DESC": "Blue/Yellow",
-    "PRODUCT": "DQ3204991-PITT_PANTHERS_FOOTBALL_HOME_JERSEY",
+    "STYLE_NUM": "DQ3204992",
+    "COLOR_DESC": "Black/White",
     "DSG_Tier 1": true,
     "DSG_Tier 2": false,
     "DSG_Tier 3": true,
     "DSG_ECOMM": false,
     "FS_ECOMM": false,
-    "GG_ECOMM": false 
+    "GG_ECOMM": false,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 300,
@@ -1280,14 +1280,14 @@
     "CLASS_ID": "300_002_002",
     "SUBCLASS_ID": "300_002_002_001",
     "STYLE_NUM": "DQ3204991",
-    "COLOR_DESC": "Blue/Yellow",
-    "PRODUCT": "DQ3204991-PITT_PANTHERS_FOOTBALL_HELMET",
+    "COLOR_DESC": "Black/White",
     "DSG_Tier 1": true,
     "DSG_Tier 2": true,
     "DSG_Tier 3": true,
     "DSG_ECOMM": true,
     "FS_ECOMM": true,
-    "GG_ECOMM": true 
+    "GG_ECOMM": true,
+    "NOTES": "" 
   },
   {
     "DEPT_ID": 999,
@@ -1295,8 +1295,7 @@
     "CLASS_ID": "999_999_999",
     "SUBCLASS_ID": "999_999_999_999",
     "STYLE_NUM": "ZZ9999999",
-    "COLOR_DESC": "Green/White",
-    "PRODUCT": "ZZ9999999-DSG_SPORTS_MATTER_HYDROFLASK",
+    "COLOR_DESC": "Black/White",
     "DSG_Tier 1": true,
     "DSG_Tier 2": true,
     "DSG_Tier 3": true,
